@@ -14,16 +14,17 @@
 ---
 
 ## 👋 About Me
-- 🛡️ أعمل على مشروع جامعي **Cyber Defense Infrastructure with Attack Simulation and Automated Responses**  
-- 🎯 شغوف بأمن الشبكات والأتمتة  
-- 📫 تواصل معي: **club-mat-3i@icloud.com**
+- 🎓 First-year **BTS SIO** student in France
+- 🛡️ Working on a university project: **Cyber Defense Infrastructure with Attack Simulation and Automated Responses**  
+- 🎯 Passionate about network security and automation  
+- 📫 Contact me: **club-mat-3i@icloud.com**
 
 ---
 
 ## 🔥 Highlights
-- ✅ مهتم بعمليّات الـ **Blue Team** و **Red Team**
-- ⚙️ بناء مختبرات افتراضية للأمن السيبراني (SIEM, IDS/IPS, Honeypots)
-- 🧪 اختبارات أتمتة للثغرات والتصحيحات
+- ✅ Interested in **Blue Team** and **Red Team** operations
+- ⚙️ Building virtual cybersecurity labs (SIEM, IDS/IPS, Honeypots)
+- 🧪 Automating vulnerability and patch testing
 
 ---
 
@@ -49,10 +50,10 @@
 
 ## 🛰️ Project Focus
 > **Cyber Defense Infrastructure with Attack Simulation and Automated Responses**  
-> بناء منصة متكاملة تُمكّن من:
-> - محاكاة هجمات متعددة الطبقات على بيئة شبكية مُراقَبة
-> - تشغيل استجابات آلية (playbooks) لتقليل زمن الاحتواء
-> - تحليل السجلات وتغذية الـ SIEM بتنبيهات مدعومة بقواعد مخصّصة
+> Building an integrated platform that enables:
+> - Simulating multi-layered attacks on a monitored network environment
+> - Executing automated responses (playbooks) to minimize containment time
+> - Analyzing logs and feeding the SIEM with alerts backed by custom rules
 
 ---
 
@@ -73,5 +74,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <sub>⭐ إذا أعجبك المحتوى لا تنسَ ترك نجمة</sub>
+  <sub>⭐ If you like the content, don't forget to leave a star</sub>
 </p>
