@@ -1,9 +1,77 @@
-<h1 align="center">Hi 🌷, I'm Soueib</h1>
-<h3 align="center">Student in Network Systems and Cybersecurity</h3>
+<!-- Hero -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=7E3FF2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%8C%B7+I'm+Soueib;Network+Systems+%26+Cybersecurity+Student;Passionate+about+Blue+Team+%26+Red+Team" alt="Typing SVG">
+</p>
 
-- Hi, I work on this school project **Cyber Defense Infrastructure with Attack Simulation and Automated Responses**
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber_Defense-In_Progress-7E3FF2?style=for-the-badge&logo=probot&logoColor=white">
+  <img src="https://img.shields.io/badge/Location-%F0%9F%8C%8D-informational?style=for-the-badge">
+  <a href="mailto:club-mat-3i@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact_me-0F9D58?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-- 📫 How to reach me **club-mat-3i@icloud.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## 👋 About Me
+- 🛡️ أعمل على مشروع جامعي **Cyber Defense Infrastructure with Attack Simulation and Automated Responses**  
+- 🎯 شغوف بأمن الشبكات والأتمتة  
+- 📫 تواصل معي: **club-mat-3i@icloud.com**
+
+---
+
+## 🔥 Highlights
+- ✅ مهتم بعمليّات الـ **Blue Team** و **Red Team**
+- ⚙️ بناء مختبرات افتراضية للأمن السيبراني (SIEM, IDS/IPS, Honeypots)
+- 🧪 اختبارات أتمتة للثغرات والتصحيحات
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="46" alt="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="46" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="46" alt="Cypress"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="46" alt="GCP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" width="46" alt="GTK"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="46" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="46" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="46" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="46" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="46" alt="Ruby"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="46" alt="Selenium"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="46" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="46" alt="Vue.js"/>
+  <img src="https://bestofjs.org/logos/vuetify.svg" width="46" alt="Vuetify"/>
+</p>
+
+---
+
+## 🛰️ Project Focus
+> **Cyber Defense Infrastructure with Attack Simulation and Automated Responses**  
+> بناء منصة متكاملة تُمكّن من:
+> - محاكاة هجمات متعددة الطبقات على بيئة شبكية مُراقَبة
+> - تشغيل استجابات آلية (playbooks) لتقليل زمن الاحتواء
+> - تحليل السجلات وتغذية الـ SIEM بتنبيهات مدعومة بقواعد مخصّصة
+
+---
+
+## 📊 Quick Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xx2i&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx2i&theme=radical&hide_border=true" alt="Streak stats" width="48%">
+</p>
+
+---
+
+## 📫 Connect
+<p align="center">
+  <a href="mailto:club-mat-3i@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Chat-0F9D58?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <sub>⭐ إذا أعجبك المحتوى لا تنسَ ترك نجمة</sub>
+</p>
